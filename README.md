@@ -4,6 +4,9 @@ this is a proposal for how to reorganize the HYF content.  it tries addresses th
 * more structured practice and clarity of learning objectives for students
     * it's impossible to cover everything a student needs to learn in a weekly project and 4 hours of class.  Having module-long challenges build of coding challenges gives students a chance to practice the subskills necessary for the projects in a structured way
     * having a set of challenges that demonstrates what competences are expected of them by the end of a module is reassuring and helpful to students independent study
+* intentional project scaffolding to teach architecture, incremental development, practice working with existing code, and avoid "blank page" syndrom:
+    * students are not asked to build projects from scratch from week 1.  instead they are given code to complete and modify in week 1, in week two code to complete and debug, and in week 3 asked to build from scratch with the same architecture, language features and coding techniques as in previous weeks
+    * each week's project uses the same architecture and language features, but asks student to implement different behavior.  this will help to explicitly teach how to plan and structure applications from a list of behvioral requirements
 * being more intentional about contribution
     * moving lesson plans and study materials to [the module wiki](https://github.com/be-hacking-hyf/demo-repo/wiki) makes it very easy for coaches and students to continually improve the study & Sunday experience without dispersing their contributions and examples in branches or having to wait for PR's to be accepted
     * gate-keeping the challenges and core project material will ensure that there is a consistency of quality and vision to the core content students are expected to complete for their portfolio
