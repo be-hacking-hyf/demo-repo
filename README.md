@@ -1,6 +1,12 @@
+> there are 4 modules testing out versions this structuring: [databases](https://github.com/hackyourfuturebelgium/databases), [node](https://github.com/hackyourfuturebelgium/node.js), [html/css](https://github.com/be-hacking-hyf/html-css-github), [js-1](https://github.com/be-hacking-hyf/javascript-1)
+
 # Module Name
 
 this is a proposal for how to reorganize the HYF content.  it tries addresses these concerns (among others):
+* embed development workflow into the content from module 1
+    * git/github & collaborative workflow can't be taught in a sunday or two before the final project.  the students need to be living these skills from the beginning if they are to really leave prepared for a job
+    * the repository contains only code the student needs to study and complete, like real collaboration.  
+    * readings, lesson plans, ... are all hosted in the wiki.  a bit like the separation between documentation and source code
 * more structured practice and clarity of learning objectives for students
     * it's impossible to cover everything a student needs to learn in a weekly project and 4 hours of class.  Having module-long challenges build of coding challenges gives students a chance to practice the subskills necessary for the projects in a structured way
     * having a set of challenges that demonstrates what competences are expected of them by the end of a module is reassuring and helpful to students independent study
